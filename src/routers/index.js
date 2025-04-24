@@ -1,5 +1,5 @@
 import { Router } from "express";
-import contactsRouter from "./contacts.js"; // якщо є
+import contactsRouter from "./contacts.js";
 import authRouter from "./auth.js";
 import quizRouter from "./quiz.js";
 import usersRouter from "./users.js";
